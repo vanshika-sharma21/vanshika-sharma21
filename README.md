@@ -77,5 +77,8 @@ A passionate B.Tech CSE graduate, Full Stack Developer, and AI enthusiast who lo
 ---
 [![](https://visitcount.itsvg.in/api?id=vanshika-sharma21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<div align="center">
+  ⚡ <b>Fun Fact:</b> I turn coffee into code and bugs into features! ☕👩‍💻  
+  <br><br>
+  Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting! ✨
+</div>
